@@ -1,5 +1,10 @@
 This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-shop-box).
 
+Software version
+Truffle -v4.0.7
+NPM - v6.5.0
+node - v11.7.0
+
 ## Installation
 
 1. Install Truffle globally.
