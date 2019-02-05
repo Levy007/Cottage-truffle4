@@ -50,7 +50,7 @@ node - v11.7.0
  
  6 Run ganache-cli in project directory so as to import seed phrase to Metamask (together with your personal password as usual) and play with the BUY button to buy and sell products through Metamask by switching into account( private, Ropsten)
  ALl the transactions will be displayed in the EVENT section on the left hand side of the screen.
-```run ganache-cli 
+    ```run ganache-cli 
    switch to Metamask to buy and sell products
  
  
